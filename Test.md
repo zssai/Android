@@ -1,9 +1,9 @@
 Table of contents
 =================
 
-  * [gh-md-toc](#This is the Titile)
-  * [Table of contents](##This is the First Title)
-  * [Installation](#installation)
+  * [gh-md-toc](#1)
+  * [Table of contents](#2)
+  * [Installation](#3)
   * [Usage](#usage)
     * [STDIN](#stdin)
     * [Local files](#local-files)
@@ -29,7 +29,7 @@ Installation
   * [这是四级标题](#####这是四级标题)
 
 
-#This is the Titile
+#1
 我爱我的小屋，爱那个装满整个童年的小屋。
 　　那时候，爸爸在城里，妈妈带着我们就住在那小屋里，很像燕子筑巢，只是冬天从不飞走。
 　　几根长短不齐的木棒结成一个门，瘸（ｑｕé）瘸的，门前有一蓬车前草；秫（ｓｈú）秸（ｊｉē）围成的篱笆（ｂā）墙，里面有一个肥沃（ｗò）的小园。面对小园有一只方方正正的大“眼睛”，那就是我的窗口。
@@ -61,7 +61,7 @@ Installation
 
 
 
-##This is the Firt Titile
+#2
 ｓｈú
 我爱我的小屋，爱那个装满整个童年的小屋。
 　　那时候，爸爸在城里，妈妈带着我们就住在那小屋里，很像燕子筑巢，只是冬天从不飞走。
@@ -104,7 +104,7 @@ Installation
 
 
 
-###This is the Second Titile
+#3
 我爱我的小屋，爱那个装满整个童年的小屋。
 　　那时候，爸爸在城里，妈妈带着我们就住在那小屋里，很像燕子筑巢，只是冬天从不飞走。
 　　几根长短不齐的木棒结成一个门，瘸（ｑｕé）瘸的，门前有一蓬车前草；秫（ｓｈú）秸（ｊｉē）围成的篱笆（ｂā）墙，里面有一个肥沃（ｗò）的小园。面对小园有一只方方正正的大“眼睛”，那就是我的窗口。
