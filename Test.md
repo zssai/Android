@@ -5,9 +5,9 @@
 Table of contents
 =================
 
-  * [gh-md-toc](#这是标题)
-  * [Table of contents](##这是一级标题)
-  * [Installation](###这是二级标题)
+  * [gh-md-toc](#This is the Titile)
+  * [Table of contents](#This is the Firt Titile)
+  * [Installation](#This is the Second Titile)
   * [Usage](#usage)
     * [STDIN](#stdin)
     * [Local files](#local-files)
