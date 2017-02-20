@@ -1,13 +1,9 @@
-
-
-[TOC]
-============================
 Table of contents
 =================
 
-  * [gh-md-toc](#This is the Titile)
-  * [Table of contents](#This is the Firt Titile)
-  * [Installation](#This is the Second Titile)
+  * [gh-md-toc](#This is the Titile)
+  * [Table of contents](##This is the First Title)
+  * [Installation](#installation)
   * [Usage](#usage)
     * [STDIN](#stdin)
     * [Local files](#local-files)
@@ -16,6 +12,10 @@ Table of contents
     * [Combo](#combo)
   * [Tests](#tests)
   * [Dependency](#dependency)
+
+
+Installation
+============
 
 
   * [This is the Titile](#This is the Titile)
